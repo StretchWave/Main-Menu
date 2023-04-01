@@ -167,10 +167,11 @@ body
 }
 .Div2
 {
-    background-image: url("backgorundpc.png");
+    background-image: url("/*Add any Background image here*/");
     background-repeat: no-repeat;
     background-size: contain;
-    height: 760px;
+    height: 100%;
+    width: 100%;
     color: white;
     overflow: hidden;
     border: none;
